@@ -8,7 +8,7 @@ import numpy as np
 
 INPUT_DIR = "frames"           
 OUTPUT_DIR = "svg_frames"     
-TARGET_W = 640.86                 
+TARGET_W = 580.765625           
 TARGET_H = 360
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
