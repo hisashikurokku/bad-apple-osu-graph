@@ -1,6 +1,6 @@
 # **Usage**
 
-Run in order:
+Go to your terminal and run these commands in order:
 ```
 # Install dependencies
 pip install -r requirements.txt
